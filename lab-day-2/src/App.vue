@@ -36,3 +36,4 @@ const changeBackground = () => {
 
 </script>
 <style scoped>
+</style>
